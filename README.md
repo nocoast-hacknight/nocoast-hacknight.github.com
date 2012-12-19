@@ -38,6 +38,7 @@ Please sign by commenting (we have space for around 10 this time)
  2. Firas Wehbe (Vanderbilt)
  3. Martha Kelly (Etsy)
  4. Chris Fonnesbeck (Vanderbilt)
+ 5. Jason Orendorff (Mozilla)
 
 ### No really, where is it (Extended directions)
 
