@@ -2,7 +2,7 @@
 ## a self organizing bi-monthly time to work on sideprojects
 
 ### Where
-ATTENTION: last minute venue change to 12 south taproom.
+**ATTENTION**: last minute venue change to 12 south taproom.
 
 see: more where info below
 
