@@ -1,0 +1,24 @@
+{
+  "name": "nocoast-hacknight.github.com",
+  "version": "0.0.0",
+  "description": "The hacknight website",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec --no-colors --ui qunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nocoast-hacknight/nocoast-hacknight.github.com.git"
+  },
+  "keywords": [
+    "nocoast",
+    "hacknight",
+    ""
+  ],
+  "author": "whit@nocoast.us",
+  "license": "MIT",
+  "dependencies": {
+    "apres": "0.0.2",
+    "mocha": "~1.7.4"
+  }
+}
