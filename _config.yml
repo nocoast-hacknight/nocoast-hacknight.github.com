@@ -1,0 +1,14 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://nocoast-hacknight.github.com
+title: Hacknight
+subtitle: Hack it!!!
+author: Whit Morriss
+simple_search: http://google.com/search
+description: 
+
+source:      .
+destination: ./_site
+plugins:     /_plugins
